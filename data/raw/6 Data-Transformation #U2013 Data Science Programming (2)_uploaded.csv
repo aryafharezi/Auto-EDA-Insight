@@ -1,0 +1,501 @@
+Unnamed: 0,Patient_ID,Date,Age,BMI,Blood_Pressure,Cholesterol,Glucose,Heart_Rate,Location,Health_Condition,Season
+1,SLy5n7T2vCfd,2021-07-14,27,31.5,122.8,131.5,77.7,70,Makassar,Healthy,Dry Season
+2,SS9WdTh6Gp9l,2020-11-16,63,26.9,119.9,212.8,128.1,82.2,Jakarta,Diabetes,Rainy Season
+3,5PBRrmglA03t,2023-03-22,72,18.2,146,158.5,100.3,73.9,Surabaya,Healthy,Transitional Season
+4,0cAGgC7hcyxq,2023-01-02,60,19.9,121.2,220.9,103.4,79.1,Bandung,Diabetes,Rainy Season
+5,0KSEA9pnVHdd,2023-06-05,40,32.5,109.4,229.8,91.9,67,Makassar,Healthy,Dry Season
+6,Zba4dbAEtGwn,2023-03-15,71,27.4,126.2,209.3,102,56.3,Bandung,Obesity,Transitional Season
+7,R8Qx2GZT0XQT,2021-09-25,74,17.1,111.3,117.8,103.5,78.5,Makassar,Healthy,Dry Season
+8,4CDiQyhVv9KV,2020-02-18,44,25.3,108.7,140.5,78.8,72.1,Jakarta,Hypertension,Rainy Season
+9,PPPsJBNOlqxa,2023-02-25,51,18.2,91.4,285,73.6,93.7,Jakarta,Healthy,Rainy Season
+10,wsS2iEHE4Sh6,2023-08-19,33,17.6,124.6,265,77.5,72.7,Bandung,Healthy,Dry Season
+11,dHw1Qj2Kba4S,2020-01-24,63,25.3,113.9,199.2,70.5,85.2,Bandung,Diabetes,Rainy Season
+12,8iJeK256qAc2,2020-12-21,42,25,130.8,237.5,90.6,68.6,Bandung,Hypertension,Rainy Season
+13,B1Cp6SdRoNK8,2024-06-12,45,19.6,108.7,152.1,121.4,72.5,Makassar,Obesity,Dry Season
+14,qhNcbTreDrX4,2020-06-13,32,25.6,119.9,225.9,91.9,88.6,Makassar,Healthy,Dry Season
+15,hkKpYRePsho5,2021-09-13,66,26.8,117.5,168.2,80.5,68.8,Makassar,Hypertension,Dry Season
+16,LbjXwfGVvV5N,2024-04-04,55,19.2,124.7,165.1,98.3,77.6,Surabaya,Obesity,Transitional Season
+17,BiYC2oc91bEX,2021-02-13,40,26.5,112.1,202.7,82.2,81.3,Bandung,Diabetes,Rainy Season
+18,AzpV85tGCDMn,2022-06-17,78,23.9,135.2,225.9,116.3,82.5,Jakarta,Healthy,Dry Season
+19,C5rG5plKpaLe,2023-08-13,36,29.6,120.2,177.2,79.1,61.3,Medan,Obesity,Dry Season
+20,5UlgANBrFxA6,2021-08-23,27,23.5,149.6,176.1,96.6,68.9,Jakarta,Hypertension,Dry Season
+21,wxj3dfHyqO9O,2023-07-30,30,27.6,159.1,241.1,75.2,71.4,Surabaya,Obesity,Dry Season
+22,Prr6AHVPDbL2,2022-07-20,79,20.1,130.7,267.2,67.5,90.6,Jakarta,Hypertension,Dry Season
+23,TMQmpYjNnZnA,2022-09-23,55,28.3,106,202.3,64.4,80.9,Bandung,Healthy,Dry Season
+24,uRa6kvMcSZh1,2021-09-12,18,30.3,119.2,148.8,92.2,68.8,Jakarta,Hypertension,Dry Season
+25,M6LVbKwm5qJ8,2024-03-20,28,30.2,113.2,195,72.7,76.1,Makassar,Hypertension,Transitional Season
+26,eQcx4kEp8CTq,2023-05-20,62,23.4,142.3,224.5,99,77.5,Jakarta,Obesity,Transitional Season
+27,u2UNPGzvGMXL,2022-05-09,43,28.2,140.7,150.3,96.4,68.7,Surabaya,Diabetes,Transitional Season
+28,MEBXjhI3nRLw,2020-09-15,75,28.1,112.3,171.8,120.2,78,Medan,Healthy,Dry Season
+29,RKCBNjej149x,2023-08-30,27,24.6,119.3,247.9,88.7,86,Jakarta,Diabetes,Dry Season
+30,bZ8xp89XCPPy,2021-04-25,76,27.6,103.6,278.8,74.4,88.7,Jakarta,Hypertension,Transitional Season
+31,ODOme8ic2spy,2023-08-14,62,14.9,132.8,147.9,130.2,81.3,Jakarta,Hypertension,Dry Season
+32,uDDO1l3114cX,2020-01-24,32,26,128.4,180.9,107.4,69.5,Bandung,Diabetes,Rainy Season
+33,jEvmcnozHA9A,2023-03-27,34,18.6,138.8,205.6,94.5,80.3,Medan,Diabetes,Transitional Season
+34,bKdK1pp7GPSg,2020-10-25,64,25.3,103.4,213.9,72.3,85.4,Bandung,Obesity,Transitional Season
+35,9rjIML4tc831,2021-02-09,25,31.4,125.5,198,84,81.6,Jakarta,Hypertension,Rainy Season
+36,QdV5zOh96PeD,2020-11-09,53,27.1,112.3,171.5,125.2,73.3,Bandung,Obesity,Rainy Season
+37,SsaI3yxuiCL0,2024-07-29,23,22.2,133.7,235.5,75.4,87.8,Medan,Healthy,Dry Season
+38,1Aea5e7ohPlp,2023-08-08,27,23.2,139.6,224.4,98.8,72.8,Surabaya,Diabetes,Dry Season
+39,LN3e0Y5sFUAC,2022-04-15,77,20.1,107.4,201,98.6,82.1,Bandung,Cardiovascular Disease,Transitional Season
+40,czC6gasCKh5m,2022-09-08,44,15.5,126,207.9,98.9,70.2,Bandung,Obesity,Dry Season
+41,7rm13rwzbOp8,2020-05-25,37,28.4,103.6,168,95.4,72.3,Surabaya,Obesity,Transitional Season
+42,E6G6fkQci0Qv,2024-07-02,73,31,128.2,199.2,84,72.5,Jakarta,Healthy,Dry Season
+43,QkxBgv0al3FI,2023-10-03,42,25.1,99.3,222.1,100.5,96.7,Surabaya,Diabetes,Transitional Season
+44,VSuBx01A35fV,2020-07-15,80,21,152.7,151,78.4,93.4,Makassar,Obesity,Dry Season
+45,GWJItsJM7kNd,2024-03-19,41,24.3,154,204.7,102,72.4,Makassar,Diabetes,Transitional Season
+46,mnaimP2BXUkB,2020-08-13,33,24.5,133.4,154.8,86.7,73.1,Jakarta,Cardiovascular Disease,Dry Season
+47,ur0hDynQhOda,2021-05-18,61,22.2,119.2,247.6,105.7,87.1,Bandung,Hypertension,Transitional Season
+48,3ON805VB964g,2023-10-10,33,23.6,129.9,173.9,70.5,76.6,Medan,Cardiovascular Disease,Transitional Season
+49,ZRxN3WBeQ5Et,2022-09-10,68,24.2,108.2,167.5,83.6,64.8,Jakarta,Hypertension,Dry Season
+50,9Qjm9pRYpZdR,2021-12-27,20,27,96.4,166.1,107.1,88.3,Makassar,Hypertension,Rainy Season
+51,3Tuxh3auRBBI,2022-08-02,73,29.5,124.7,220.5,113.5,74.8,Makassar,Obesity,Dry Season
+52,C5At5ohS56fl,2023-06-22,49,16.1,82.2,187.9,95,70.6,Surabaya,Healthy,Dry Season
+53,CZoSq9VKeUbB,2022-07-10,38,32.7,106.8,176.8,85.8,72,Medan,Healthy,Dry Season
+54,4WmVm8Bo9fdG,2021-09-17,56,35.2,116.1,141.9,102.6,78.8,Bandung,Cardiovascular Disease,Dry Season
+55,8bZ6jhOrR6FA,2020-09-18,20,20.4,138.4,256,98.3,72.6,Bandung,Diabetes,Dry Season
+56,NjHNzGjbrfJD,2021-01-24,27,22.2,134.1,225.8,115.2,87.7,Medan,Hypertension,Rainy Season
+57,P1zgCnGbR8re,2020-05-09,38,28.2,131.5,213.7,132,82.6,Medan,Diabetes,Transitional Season
+58,0cyS8m6oM9k1,2023-10-27,59,24.7,108.8,182.7,94.1,82.1,Jakarta,Cardiovascular Disease,Transitional Season
+59,C31JJycFo6si,2022-10-23,24,30.2,138.6,118.5,118.9,52.3,Bandung,Cardiovascular Disease,Transitional Season
+60,Knvjs1J9ocq2,2021-01-08,36,27,117.5,179.3,101.9,84.5,Bandung,Hypertension,Rainy Season
+61,5PwDTpgJS8FC,2023-11-29,46,19.8,144,211.7,103.9,67.5,Jakarta,Cardiovascular Disease,Rainy Season
+62,wPuc8xUQh42z,2022-02-08,62,26.8,99.2,168.6,100.1,73.7,Jakarta,Hypertension,Rainy Season
+63,KcgSMz1e4aBQ,2022-10-11,59,20.2,114.7,154.2,76.4,68.2,Jakarta,Cardiovascular Disease,Transitional Season
+64,ZL2sgkrjHMp8,2021-11-28,72,24.5,120,251,94.4,73.9,Jakarta,Diabetes,Rainy Season
+65,p6UkMUQ11wik,2021-10-11,63,24.3,128.9,134.6,76.2,51.4,Medan,Healthy,Transitional Season
+66,dLRx0ac4ifBI,2020-02-09,41,21.4,112.8,159.9,103.9,62.9,Jakarta,Healthy,Rainy Season
+67,qqi47mApPU9g,2021-05-31,46,30.6,127,159.5,68.1,88.8,Medan,Diabetes,Transitional Season
+68,9CuO7Sbq3bUi,2020-02-02,73,25,89,165.2,117.5,65.8,Surabaya,Healthy,Rainy Season
+69,iErG8BEooWia,2022-08-02,47,26.7,113.3,233.8,113.9,61.6,Jakarta,Cardiovascular Disease,Dry Season
+70,NQWBJglidgSa,2020-04-12,60,33.3,114.4,133.4,115,84,Makassar,Healthy,Transitional Season
+71,CjbcNQ1BA325,2023-06-05,62,23.8,123.2,192,99.3,73.6,Makassar,Obesity,Dry Season
+72,pnvSzLykEK6v,2020-04-18,52,25.5,110.3,184.1,77.4,74.5,Makassar,Hypertension,Transitional Season
+73,Gnt89gE8EkOR,2022-09-28,59,24,102.3,253,82.9,70.1,Makassar,Obesity,Dry Season
+74,kE4TUQ2Oqxn5,2023-09-14,68,29.1,122.7,233.5,82,68.1,Makassar,Obesity,Dry Season
+75,bkPRqOjg7Dzu,2024-08-19,51,26.6,122.8,175.9,65.6,88,Jakarta,Healthy,Dry Season
+76,Gb9KfzbEYL4O,2020-03-16,56,23,101,237.1,62.1,68.4,Surabaya,Healthy,Transitional Season
+77,X0epzADTlfCV,2022-09-06,69,28.8,101.9,157.7,118.1,62.5,Jakarta,Healthy,Dry Season
+78,cmAl1i0EohW2,2024-12-05,38,20.6,116.2,145.6,77.8,67.1,Jakarta,Hypertension,Rainy Season
+79,eA1bRTXGwuFF,2024-02-23,70,25.8,119.5,238,106.2,85.7,Bandung,Diabetes,Rainy Season
+80,mjUSpoZDYaQF,2024-04-19,60,17.4,134.8,204.8,58.6,55.3,Bandung,Diabetes,Transitional Season
+81,XXX5QdRgn3Q1,2022-01-02,75,27.8,126.3,127.6,116.4,75.5,Makassar,Obesity,Rainy Season
+82,CUSV68x3zoUK,2020-01-16,60,25.2,145.2,219.6,82.4,73.2,Jakarta,Diabetes,Rainy Season
+83,VHApcvpLmgUU,2023-10-12,79,24.9,123.2,180.8,124.2,56.7,Bandung,Cardiovascular Disease,Transitional Season
+84,tDxONbfys5NO,2024-10-21,43,19.9,140.3,184.6,54,80.3,Jakarta,Cardiovascular Disease,Transitional Season
+85,YO8LBK0BF0IL,2023-06-25,50,24,97.6,249.8,59.8,73.5,Makassar,Cardiovascular Disease,Dry Season
+86,rY8HSULOLjYq,2022-10-02,70,31.6,105.5,182.2,77.3,70.9,Jakarta,Diabetes,Transitional Season
+87,vO7bkFFB8qnb,2023-09-10,79,28.8,105.6,188.8,68.3,91,Bandung,Obesity,Dry Season
+88,66A3qwSlw5zi,2022-09-14,23,28.3,93.5,175.5,116.5,65.2,Surabaya,Obesity,Dry Season
+89,ZtmrXNH4ENrK,2024-07-11,75,27.8,124.3,213.2,101.9,72.3,Bandung,Healthy,Dry Season
+90,lagtok7K8VYr,2024-07-23,40,27.7,90.1,219.7,86.6,83,Makassar,Diabetes,Dry Season
+91,hmsmv4ZS8a7x,2020-03-22,59,18.7,133.3,228.3,77.3,59.7,Bandung,Obesity,Transitional Season
+92,AvuBeevTFWT8,2022-07-02,58,18.1,121.1,199.7,90.5,67,Makassar,Diabetes,Dry Season
+93,jDdv7f4E02kN,2020-11-20,77,22.9,126.7,181.4,87.2,75.5,Jakarta,Diabetes,Rainy Season
+94,ipUny9bqJMsU,2024-07-03,61,30.7,122.3,103.1,98.3,77.9,Bandung,Diabetes,Dry Season
+95,qKEfW1oqpuRu,2023-10-15,77,27.3,142.5,240.9,105.6,60.9,Makassar,Healthy,Transitional Season
+96,63x6YJJbNTKQ,2022-08-08,62,22,124.9,240.1,86.8,90.4,Surabaya,Hypertension,Dry Season
+97,2FQwpxz6IBQD,2020-10-22,35,25.7,127.2,225.1,109.4,73.9,Medan,Hypertension,Transitional Season
+98,kUQ1IPMEaH0X,2020-05-28,64,26,92.6,182,121.9,60.9,Jakarta,Healthy,Transitional Season
+99,G2YQgAA5H722,2022-09-22,38,23.5,132.9,235.3,104.1,62,Medan,Hypertension,Dry Season
+100,gpjcTYVW0hvs,2024-05-11,50,27.3,116,244.6,115,84.1,Jakarta,Cardiovascular Disease,Transitional Season
+101,NkH1VhjUwNeY,2020-04-09,28,24.4,89.8,209.2,103.4,91.8,Jakarta,Obesity,Transitional Season
+102,8BTzXeZmpESW,2022-09-25,57,26.8,122.8,198.2,109.2,66.8,Surabaya,Obesity,Dry Season
+103,Dnu6zMN9pgra,2020-10-24,62,27.5,123.5,123.3,77.6,76.1,Makassar,Healthy,Transitional Season
+104,o4LHkRt7zeeP,2021-02-05,31,23.5,130.2,260.8,99.2,86.6,Makassar,Diabetes,Rainy Season
+105,WsAIVYl7kfBM,2020-03-31,19,23.6,129.2,210.2,100.7,71.6,Bandung,Diabetes,Transitional Season
+106,V18VedXktgYT,2022-02-19,55,22.4,128.4,215.8,61.1,72.6,Surabaya,Diabetes,Rainy Season
+107,qtiwC54fTZz0,2023-04-19,62,26.6,149.8,240.2,128.4,63.8,Medan,Healthy,Transitional Season
+108,mihMjctTxWp4,2022-12-13,79,26.3,144.3,195.4,85.6,74.7,Bandung,Hypertension,Rainy Season
+109,t6qBvNsk3LEi,2022-04-30,52,25.3,122.8,163.7,51.6,92.2,Surabaya,Obesity,Transitional Season
+110,PDUwyUeNrqOI,2020-10-14,45,22.6,117.9,189.8,97.4,93.4,Makassar,Cardiovascular Disease,Transitional Season
+111,ZfQ2RAx1cIdd,2021-12-20,62,27.2,108.8,159.1,110.7,65.1,Makassar,Hypertension,Rainy Season
+112,TNHEQp6CUlDi,2024-11-16,33,20.6,134.5,226.1,88.5,81.2,Surabaya,Obesity,Rainy Season
+113,sBvZ7A6pJpTL,2020-02-29,68,23.6,106.8,190.4,92.3,90.1,Medan,Diabetes,Rainy Season
+114,YzmZ9hbeGnG3,2023-08-01,33,23.6,118.5,195,111.4,80.7,Surabaya,Obesity,Dry Season
+115,hdY4liCRXvQq,2022-04-28,62,33.9,135.3,187,89.7,65.4,Bandung,Hypertension,Transitional Season
+116,qqUdDDlchznV,2024-07-01,62,19.3,118.2,244.2,76.1,82.8,Makassar,Obesity,Dry Season
+117,ZlCR4urRpHVw,2022-08-26,25,30,126.8,150.2,90.8,62,Surabaya,Cardiovascular Disease,Dry Season
+118,0hSvnQJdcv9A,2021-01-11,74,29.6,146.1,193,116.2,78.3,Makassar,Healthy,Rainy Season
+119,hZ50IYt9PIv3,2021-09-29,78,24.8,150.9,138.9,94.8,85.6,Makassar,Cardiovascular Disease,Dry Season
+120,ddtpTdkXh4L5,2021-03-02,72,27.3,140.7,198.9,101.6,71.4,Makassar,Hypertension,Transitional Season
+121,wdozCMsyJJ0P,2021-03-17,62,23.2,146.9,199.6,139.3,68.9,Surabaya,Healthy,Transitional Season
+122,PYApLzGm0JJG,2023-02-09,55,23.2,107.2,214.6,83.7,64,Surabaya,Diabetes,Rainy Season
+123,pi2AvHwVA5zt,2021-08-06,55,25.8,116.5,200.7,74.8,77.4,Makassar,Hypertension,Dry Season
+124,8aY7LDtN6OJh,2023-08-01,25,25.2,154.5,226.2,114.7,88,Makassar,Healthy,Dry Season
+125,4inWi8RcDHAH,2022-08-08,75,24.4,132.9,199.5,64.3,72.1,Bandung,Healthy,Dry Season
+126,X95vyI8xT0Hb,2024-03-16,48,30.7,133.6,204,122.3,90.2,Makassar,Cardiovascular Disease,Transitional Season
+127,OnTihZC0AZmn,2023-03-10,54,27.9,138.8,255,78.4,71.5,Makassar,Hypertension,Transitional Season
+128,yqlEfZZBWQ1L,2024-10-07,40,28.9,130.9,233.7,90.3,76.8,Medan,Cardiovascular Disease,Transitional Season
+129,iIJgckvcRLie,2022-08-26,58,24.2,145.2,258.9,132.6,72,Surabaya,Hypertension,Dry Season
+130,EJvxvSmGmBcW,2020-11-06,27,21.9,109.8,228.7,79.1,80.7,Surabaya,Healthy,Rainy Season
+131,edgiQWIBNahl,2022-06-30,76,30.8,114.3,179.9,85.7,81.5,Bandung,Cardiovascular Disease,Dry Season
+132,Lh1fleaBFmPI,2021-04-18,77,26.6,112.7,203.3,55.5,75.7,Medan,Diabetes,Transitional Season
+133,ezw6rGGizStF,2022-03-21,75,22.2,111.9,132.6,62,66.9,Jakarta,Healthy,Transitional Season
+134,gqesJxhGk0Ro,2024-04-26,28,25.1,117,208.3,69.4,87.8,Jakarta,Diabetes,Transitional Season
+135,ggCqsgSA2IKf,2020-02-11,44,22.5,144.7,194.9,101.6,65.3,Medan,Diabetes,Rainy Season
+136,btjo7FWMSuJC,2022-01-29,40,25.6,106.8,240.7,63.9,76.8,Bandung,Diabetes,Rainy Season
+137,A15eaI8YDCmT,2023-06-28,50,29.3,126.7,221.5,91.7,57.5,Medan,Healthy,Dry Season
+138,I5cFqBarWwG7,2024-01-04,39,23.1,147.5,244.8,94,83.3,Jakarta,Diabetes,Rainy Season
+139,DNB7dv1bfU7m,2024-08-19,32,25.5,93.2,292.8,85.1,68.5,Jakarta,Hypertension,Dry Season
+140,ZFtVhROHc63M,2020-01-25,21,26.9,133.5,166.3,105.6,76.4,Surabaya,Healthy,Rainy Season
+141,HvOt0txvc6qE,2021-12-03,77,22.8,104.9,195.8,97.4,86.6,Makassar,Diabetes,Rainy Season
+142,UKggyAVZc1hO,2024-04-16,56,18.2,141.5,197.7,89.2,93.7,Surabaya,Cardiovascular Disease,Transitional Season
+143,e7jBP9Nj7AMk,2023-06-15,60,24.2,132,176.7,93,71.6,Bandung,Diabetes,Dry Season
+144,KQHfhGcO8LKP,2021-06-09,27,21.6,125.6,269.9,64.9,81.8,Jakarta,Obesity,Dry Season
+145,bUdrXCGGx6fd,2021-09-14,25,28.7,118.4,162.4,123.2,86.8,Medan,Healthy,Dry Season
+146,GbtHKKxIVI9z,2020-09-18,48,24.7,92.5,192,96,62.1,Surabaya,Obesity,Dry Season
+147,f0tZDm9Dbb2L,2024-03-07,45,24.4,106.7,213.8,90.6,83.5,Surabaya,Healthy,Transitional Season
+148,NuHckq2L3hOY,2022-07-31,52,18.7,107.4,207,83.4,57.7,Bandung,Cardiovascular Disease,Dry Season
+149,BreqO9Hove1D,2020-10-25,62,20.8,138.9,196.2,77.1,75.2,Medan,Cardiovascular Disease,Transitional Season
+150,zZaHEo8y8ll6,2024-01-09,37,26.9,116.6,190.4,112.8,69,Surabaya,Diabetes,Rainy Season
+151,q8FyriaIGguB,2021-12-20,72,24.2,117.4,200.8,93.2,80.1,Bandung,Cardiovascular Disease,Rainy Season
+152,m769nsubP0HS,2021-01-03,73,22.2,109.3,177.7,66.8,62.8,Medan,Obesity,Rainy Season
+153,mlwGKHf4xqPl,2021-05-26,65,19.1,119.7,180.5,107.2,85.5,Medan,Obesity,Transitional Season
+154,MUFm8J5mi4Nr,2022-01-27,25,33.5,91.7,236,105.6,102.8,Bandung,Diabetes,Rainy Season
+155,48hSGV2mFh8s,2023-10-24,49,29.5,134,259.5,86.4,71.3,Surabaya,Cardiovascular Disease,Transitional Season
+156,TjlKqPgUDfgI,2022-01-23,20,21.5,130.9,161.3,75.7,87.8,Surabaya,Healthy,Rainy Season
+157,8LlCQ3LwjjdO,2022-03-09,58,22.6,140.9,197.1,70.7,47.3,Jakarta,Diabetes,Transitional Season
+158,1i1ty7Zou6vh,2022-05-11,65,25.8,117,228.8,99.4,81.6,Surabaya,Healthy,Transitional Season
+159,Tc5U450NwgTy,2023-06-01,28,24.7,132.5,212.6,94.1,68.4,Jakarta,Healthy,Dry Season
+160,o7P2t8cMcGO4,2022-02-12,30,29.9,101.9,260.2,69.6,82.8,Medan,Hypertension,Rainy Season
+161,S1px0UCD8GLy,2023-05-22,56,25.2,131.1,176.8,92.4,88.2,Medan,Diabetes,Transitional Season
+162,9tkEtvptrfnb,2020-10-20,35,25.3,124.8,182.6,100,61.5,Surabaya,Cardiovascular Disease,Transitional Season
+163,o0AU26zIGix2,2021-08-29,56,13.2,136.7,219.9,93,71.7,Bandung,Healthy,Dry Season
+164,3JRAR6ZIAtNm,2024-03-21,38,24.5,135.3,185.3,118.4,85.1,Surabaya,Cardiovascular Disease,Transitional Season
+165,n5TiH9JczWFc,2022-02-02,22,18.4,103.3,280.1,127.8,84,Bandung,Diabetes,Rainy Season
+166,jVth8YMleatt,2022-02-21,48,23.2,127.1,179.7,106,66.9,Jakarta,Hypertension,Rainy Season
+167,sTTCdLZRb4Q3,2021-06-29,73,21.8,148.7,214.3,52.8,75.6,Medan,Cardiovascular Disease,Dry Season
+168,1COjcyePU6eG,2021-03-01,37,26.8,111.8,237.9,113.1,52.2,Medan,Hypertension,Transitional Season
+169,OO2tQNRF0MoV,2021-04-15,35,24,131.3,158.4,74.1,72.3,Medan,Healthy,Transitional Season
+170,8zjwaiAwa6t6,2020-07-06,56,23.5,122.1,244.5,57.2,75.2,Makassar,Diabetes,Dry Season
+171,ZsNdVtNX32YD,2020-09-10,66,22.8,118.7,143.7,96.9,93.1,Surabaya,Diabetes,Dry Season
+172,Bx331NLajO3h,2020-09-24,75,24.6,130.8,163.5,94.1,81.2,Surabaya,Hypertension,Dry Season
+173,Evff6VvMC5JW,2021-10-01,20,18.6,134.7,286,89.7,74.1,Bandung,Hypertension,Transitional Season
+174,sdhWnQ74rWUz,2023-12-04,65,29,112.6,242.8,78.3,85.2,Bandung,Cardiovascular Disease,Rainy Season
+175,giV5Qdyl5tv9,2020-02-10,25,24.6,123.6,164.6,104.4,78,Bandung,Hypertension,Rainy Season
+176,MMEpkIL2oVAb,2023-05-01,36,28,131.3,120.1,96.7,83.1,Makassar,Healthy,Transitional Season
+177,89tAlWQZgYW6,2024-05-20,67,33.6,101.3,96.2,69.3,69.9,Jakarta,Healthy,Transitional Season
+178,W9JQbgSptK2u,2022-04-03,27,21.4,141.9,278.1,62.8,83.7,Makassar,Hypertension,Transitional Season
+179,kPHjIQTxuw4W,2021-10-25,32,29.5,106.2,253.2,61.3,81.7,Jakarta,Healthy,Transitional Season
+180,BwP4ZzZ0yraI,2023-01-26,78,30.5,149.1,168.3,88.4,84.3,Makassar,Hypertension,Rainy Season
+181,TqZkBJlvEnA4,2021-06-20,29,28.5,121.3,145.7,102.3,73.8,Medan,Obesity,Dry Season
+182,fliL3quI1aqO,2020-12-13,52,26.8,111.3,280.1,112.7,85.4,Surabaya,Obesity,Rainy Season
+183,W6sZiEvxUln5,2020-04-16,69,31.9,141.9,235.5,112.6,63.4,Medan,Obesity,Transitional Season
+184,85SSvOlJ4EGe,2020-11-12,65,23.2,121.6,172.4,93.9,64.5,Bandung,Hypertension,Rainy Season
+185,YjB4DQxd8yal,2022-11-03,49,22.2,145.5,193.8,87,70.5,Makassar,Hypertension,Rainy Season
+186,nFaZQikTJkwZ,2020-06-10,78,25.9,113.8,261.8,100,87.3,Surabaya,Hypertension,Dry Season
+187,Hg790cbc9OWf,2021-09-27,71,26.1,112.2,239.2,94.5,84.4,Surabaya,Hypertension,Dry Season
+188,3kpyPIrrhJpr,2021-12-06,59,29.7,116.7,154.9,88.1,84.8,Makassar,Healthy,Rainy Season
+189,ibaov3Kv6sy3,2024-06-18,51,29.4,99.1,212.3,95.6,70.1,Surabaya,Obesity,Dry Season
+190,OrpyNMbPhA1N,2024-04-16,57,25.7,126.6,241.6,80.8,86.6,Medan,Healthy,Transitional Season
+191,dGA9ytkotAOZ,2022-06-24,18,23.9,117.3,231.8,151.8,75,Bandung,Diabetes,Dry Season
+192,XrdueCAoPK6x,2024-09-16,30,31.4,94.8,235,37.5,67.2,Surabaya,Obesity,Dry Season
+193,v9Pul8RCmRda,2022-03-06,24,17,128,176.9,120.1,66.8,Makassar,Hypertension,Transitional Season
+194,qwo7g0L5KWif,2021-09-21,28,22.1,122.1,223.4,140.5,76.1,Jakarta,Cardiovascular Disease,Dry Season
+195,D5sjjYgeWepL,2022-11-26,28,26.7,122.7,278.4,90.5,94.3,Surabaya,Cardiovascular Disease,Rainy Season
+196,cfRjN2SroAao,2023-03-07,30,20.2,118.3,133.6,109.6,81.4,Surabaya,Healthy,Transitional Season
+197,JGPA0xbjpt7O,2023-10-24,80,26.3,116.5,149.9,82.5,72.9,Medan,Healthy,Transitional Season
+198,XBJ9DjXeElTj,2022-10-05,54,22.1,109,259.7,112.9,71.1,Makassar,Hypertension,Transitional Season
+199,uH2CFoKot3oA,2022-02-11,51,23,132.2,275.5,111,65.8,Medan,Diabetes,Rainy Season
+200,Tm6mbxXNgsVq,2024-04-19,32,22,131.5,259.7,69.2,54.4,Jakarta,Healthy,Transitional Season
+201,4eNCvu2eYXwU,2020-03-18,54,28.9,135.9,242.2,63.5,77.8,Bandung,Hypertension,Transitional Season
+202,KTglJ1eD5yGJ,2021-06-09,31,24.6,104.2,214.4,99.1,58.2,Medan,Hypertension,Dry Season
+203,rCzmKce3tePL,2024-08-18,54,23.2,105.1,200.2,68.7,90.2,Jakarta,Healthy,Dry Season
+204,YDmj0xjDB1X4,2023-01-25,43,28,132.1,249.2,118,73.7,Medan,Hypertension,Rainy Season
+205,NlTAoycVI7Xd,2024-10-30,66,34.8,135,142.1,100.5,75.9,Makassar,Obesity,Transitional Season
+206,o1hN4R0eehMV,2021-04-27,45,25.2,113.1,267.2,101.5,74.3,Bandung,Obesity,Transitional Season
+207,eIcpJBeciKpS,2020-06-30,35,25.6,106.6,193.6,96.4,85.2,Jakarta,Healthy,Dry Season
+208,X7B7Qk6uYv4X,2024-02-06,76,31.7,124.7,257.8,98,80.4,Bandung,Cardiovascular Disease,Rainy Season
+209,ys1sR7y98qCX,2023-02-24,71,25.8,101.5,187.3,114.7,73.5,Makassar,Healthy,Rainy Season
+210,1I3F923KeMvE,2024-12-27,34,21.5,127.5,275.5,92.1,89.1,Jakarta,Diabetes,Rainy Season
+211,CL8YsG4sdAmJ,2024-02-25,67,24.5,145.3,198.6,98.7,85.1,Bandung,Healthy,Rainy Season
+212,yUgLC2uH3Uhg,2024-04-27,56,26.6,89.2,182.9,93,76.5,Medan,Diabetes,Transitional Season
+213,XG04TMeDVqw5,2024-09-11,62,27.4,110.6,227.4,109.7,64.4,Makassar,Hypertension,Dry Season
+214,KJ5sOtZt0ULl,2024-03-09,51,20.8,130.7,177.4,79.3,87.6,Makassar,Obesity,Transitional Season
+215,jeSbihwq2Dvg,2022-09-18,29,31.8,142.5,206.7,61.1,82.4,Bandung,Cardiovascular Disease,Dry Season
+216,l3uHkcX1ybPM,2020-12-02,47,30.6,116.7,263.4,85,71.3,Makassar,Cardiovascular Disease,Rainy Season
+217,11Wb15uk4Js8,2021-06-22,52,27.1,121.2,133,50.8,77.3,Bandung,Hypertension,Dry Season
+218,EXMivtga5EQ5,2024-04-14,37,22.7,125,165.9,69.1,61,Medan,Obesity,Transitional Season
+219,MzBRj8zn8iPJ,2023-04-18,43,24.2,139,206.7,89.7,83.5,Bandung,Healthy,Transitional Season
+220,zka7MeUL2lRY,2022-05-17,42,14.6,133.1,275.2,69.3,56.6,Surabaya,Cardiovascular Disease,Transitional Season
+221,8f6UaPE4hjfu,2020-07-30,25,20.2,115.4,233.6,106,82.5,Surabaya,Healthy,Dry Season
+222,dyYthz8z6YDg,2024-05-29,37,19.9,114,172.4,89,73.8,Bandung,Obesity,Transitional Season
+223,syTaQ3PZXNhP,2020-07-19,45,22.3,124.1,212,70.7,78.5,Medan,Diabetes,Dry Season
+224,VppKtirqZivF,2023-11-25,72,31.7,107.7,215.8,107.8,66.8,Medan,Obesity,Rainy Season
+225,YiaqYMlOGaDU,2020-03-02,63,24,91.2,195.9,82.5,79.2,Makassar,Diabetes,Transitional Season
+226,w65atN3exITS,2023-07-16,50,26.8,112.2,203.2,102.1,84.1,Makassar,Diabetes,Dry Season
+227,zZdWG7ohbOlQ,2023-11-06,73,22.9,124,159.2,92.5,71.2,Makassar,Diabetes,Rainy Season
+228,bsuhpwLcaow2,2023-02-21,63,27.5,122.3,214.8,87.6,70.2,Makassar,Obesity,Rainy Season
+229,ZftJrUaMnuI4,2022-12-22,38,28.6,118.4,160.3,69.8,75.2,Makassar,Obesity,Rainy Season
+230,TzyAb6tRKh0k,2021-07-14,73,29.9,96.9,239.8,37.2,68.5,Bandung,Hypertension,Dry Season
+231,BgPU6enpUfAs,2021-07-26,67,27.1,121.8,152.2,50.3,70.3,Surabaya,Hypertension,Dry Season
+232,rzNf7lSvYdzt,2024-07-09,73,33,124,240.6,59.2,94.9,Medan,Cardiovascular Disease,Dry Season
+233,brMe9OZjMInU,2024-11-27,51,21.2,150.4,252,75,71.7,Medan,Healthy,Rainy Season
+234,bGvsaQ5zBnUp,2021-06-23,79,27.5,83.8,247.7,112.7,62.5,Surabaya,Hypertension,Dry Season
+235,jczAkji16bd5,2020-01-02,22,27.9,104.7,307,77.8,52.4,Surabaya,Hypertension,Rainy Season
+236,5THkntphLXHu,2021-11-01,59,22.7,125,123.4,52.2,68.3,Surabaya,Diabetes,Rainy Season
+237,OlyN0TRPr5Qq,2024-07-29,29,28.9,101.3,169.2,71.2,68.2,Jakarta,Obesity,Dry Season
+238,7IkZom6HN9k3,2023-02-24,20,26.7,147.2,126.1,97.2,71.1,Bandung,Hypertension,Rainy Season
+239,D8TiPgQkQJtd,2023-05-16,75,26.8,138.9,201.3,96,63.4,Makassar,Healthy,Transitional Season
+240,rXgFPY27AIrc,2022-02-09,35,29.8,126.3,149.7,71.1,79.7,Medan,Hypertension,Rainy Season
+241,BjNTrY5fx0Sg,2022-01-10,67,24.7,109.7,212.1,78.7,51.2,Bandung,Hypertension,Rainy Season
+242,0S9qOEuCr9le,2020-09-25,67,27.6,122.7,198.9,92.2,83.5,Makassar,Cardiovascular Disease,Dry Season
+243,eMSGIN8FqBX4,2022-11-01,64,24.1,121.3,113.5,78.6,76.3,Makassar,Obesity,Rainy Season
+244,pNzsfbRgq1K0,2021-12-05,18,25.6,130.8,218,91.3,88.2,Bandung,Hypertension,Rainy Season
+245,fHy2GkAq8otR,2021-10-31,25,36.6,112.3,252.2,107.8,81.3,Jakarta,Obesity,Transitional Season
+246,i0tslbaGaeXu,2024-05-05,68,21.5,117.8,174.8,96.2,91.3,Jakarta,Hypertension,Transitional Season
+247,FsYmNZlL8t70,2021-03-19,57,27.6,125.9,140.3,99,76.3,Jakarta,Cardiovascular Disease,Transitional Season
+248,w8QKuYqoDTAA,2021-11-07,47,36.4,128.8,247.9,104,78.9,Makassar,Hypertension,Rainy Season
+249,G01bcnIc4sCA,2024-05-01,37,24.1,115.7,209,70.3,60.8,Makassar,Healthy,Transitional Season
+250,t6sbs2Ftw0Bj,2023-05-06,68,31.9,112.6,259.9,80.9,73,Surabaya,Diabetes,Transitional Season
+251,knQ7vckx31vC,2022-06-30,51,20.3,133.9,175.3,96.2,59.8,Medan,Diabetes,Dry Season
+252,MuFNMK6tJi6X,2022-10-30,38,26.8,118.9,168.6,55.9,85.7,Bandung,Obesity,Transitional Season
+253,vVTr096aNW0N,2022-08-24,69,20.8,104.2,244.5,68.3,75,Bandung,Hypertension,Dry Season
+254,1B2NpMbDPt4m,2023-07-02,80,19.1,99.1,260.8,86.7,52.8,Medan,Hypertension,Dry Season
+255,JX7kXghdQtcI,2023-05-09,36,21.6,133.6,150.9,70,79.3,Surabaya,Cardiovascular Disease,Transitional Season
+256,rqVi90y4aLJu,2024-11-03,78,20.8,124.8,224.9,115.9,77.9,Bandung,Cardiovascular Disease,Rainy Season
+257,RpbkRHFWkUSQ,2024-03-18,75,23.2,125.1,221.4,118.1,81.7,Medan,Hypertension,Transitional Season
+258,G81NH8epjI6Y,2022-04-29,60,21.5,138.3,211.9,79.6,97.9,Surabaya,Diabetes,Transitional Season
+259,vp8kG7Z0fOUl,2020-06-29,64,25,140.1,208,98.4,78,Makassar,Healthy,Dry Season
+260,HR2X9bbLdIbF,2022-01-20,35,27.7,130.5,177.6,70.9,87.5,Surabaya,Healthy,Rainy Season
+261,TWUrXmzMVh9F,2023-07-31,57,21.3,92.8,180.2,80.7,73.3,Bandung,Cardiovascular Disease,Dry Season
+262,rcv5nDSj3Xmg,2024-11-22,41,25.4,113.8,145.7,81.5,71,Bandung,Obesity,Rainy Season
+263,so709AFzB0UJ,2021-04-07,59,16.9,93.3,325,105.5,81.2,Bandung,Hypertension,Transitional Season
+264,1TY8MRud8Zyq,2021-08-27,46,25.6,137.2,252.1,91.4,84.2,Bandung,Healthy,Dry Season
+265,QyXOCV2H3fXz,2023-08-29,51,26.7,109.7,210.8,94.5,67.1,Jakarta,Obesity,Dry Season
+266,UWtDSatCxFbt,2020-03-24,39,20.7,84,243.4,72.4,87.6,Makassar,Cardiovascular Disease,Transitional Season
+267,ppLz34QlQF76,2022-09-11,21,27.2,116.6,179,92.6,66.4,Surabaya,Cardiovascular Disease,Dry Season
+268,SXvVKhxO9k5H,2021-04-08,40,34.4,112.9,222.6,95.6,70.7,Surabaya,Obesity,Transitional Season
+269,4PdDOzYypDuh,2022-09-10,34,25.5,133,192.6,107.6,77,Jakarta,Diabetes,Dry Season
+270,JTwkRWM95O96,2020-08-12,61,23.9,113.8,215.3,79.8,77,Medan,Obesity,Dry Season
+271,S3aYAlretn1e,2024-05-15,72,35.8,149.6,208.3,92.9,77.4,Jakarta,Diabetes,Transitional Season
+272,Etl1pbZzSiW5,2023-01-30,37,28.1,126.9,177.2,96.6,70.8,Medan,Cardiovascular Disease,Rainy Season
+273,f2ZszYEpFRk2,2020-06-19,68,26.7,103,232.5,69.2,67.9,Bandung,Healthy,Dry Season
+274,ryXIWrR7t4L5,2021-05-03,56,31.4,93.2,235.4,63.1,73.3,Bandung,Healthy,Transitional Season
+275,NmsPsoN3M6wZ,2024-08-12,26,31.6,114.1,174.1,104.6,71.5,Bandung,Diabetes,Dry Season
+276,uqsmEs5opnYI,2022-07-10,80,19.6,108.5,180.1,107.4,77.8,Makassar,Healthy,Dry Season
+277,tV6JyHNVRTbp,2021-11-24,79,27.8,114.3,218.8,96.6,75.7,Surabaya,Healthy,Rainy Season
+278,FHZ2GJarBTDq,2024-05-09,36,23,125.5,153.8,108.1,82.5,Jakarta,Obesity,Transitional Season
+279,mbzeOkFepMOB,2024-05-08,38,23.2,110.6,206,109,69.4,Jakarta,Cardiovascular Disease,Transitional Season
+280,kW32hwyOant0,2022-10-19,60,21.9,97.7,177.1,114.5,72.6,Surabaya,Diabetes,Transitional Season
+281,XMpxLfKCfXgh,2024-09-04,60,15.4,144.3,164.8,91.7,89.6,Surabaya,Diabetes,Dry Season
+282,tlp9E6NbQXj3,2023-12-15,80,28.2,146.1,168.7,106,78.3,Jakarta,Hypertension,Rainy Season
+283,4LqdVXYGleTi,2024-04-27,61,21.5,156,138,74.4,63.3,Bandung,Hypertension,Transitional Season
+284,EXEkHEbV4r6d,2023-05-15,34,30.2,131.7,173.5,73.7,81,Makassar,Obesity,Transitional Season
+285,oLDPKPzqL4Ls,2023-01-13,51,27.4,115.3,189.3,126.5,75.7,Surabaya,Healthy,Rainy Season
+286,hrnNmjzMyntA,2020-06-01,69,17,120.2,233.2,91.1,63.9,Bandung,Obesity,Dry Season
+287,6zOR135Ja5gt,2022-08-18,24,21.3,103.3,158.5,67.8,65.4,Medan,Healthy,Dry Season
+288,90LIwFV8shgc,2020-08-27,66,30.5,133.7,261.5,87.2,77.2,Makassar,Hypertension,Dry Season
+289,NBD5gJGNSycZ,2020-02-18,21,22.9,94.3,224.4,79.4,78.4,Makassar,Cardiovascular Disease,Rainy Season
+290,TmAe8HcWj2cP,2023-03-08,62,16.2,100.4,170,52.3,74.2,Makassar,Healthy,Transitional Season
+291,hp80OKlJvWBA,2020-06-04,68,37.8,142.6,294.2,88.3,74.4,Jakarta,Diabetes,Dry Season
+292,39Xtdtoxv0Tu,2020-09-30,18,27.3,167,143.6,103.2,71.2,Surabaya,Diabetes,Dry Season
+293,5P3P3YUBeXG2,2024-05-09,45,23.9,121.7,249.2,108.4,86.3,Surabaya,Healthy,Transitional Season
+294,uCixPSkOfcMT,2023-06-03,34,34.3,147.9,148.3,91.5,84.1,Surabaya,Cardiovascular Disease,Dry Season
+295,gPtTntjmISZs,2022-01-31,53,33,104.9,225.6,127.3,57.2,Makassar,Healthy,Rainy Season
+296,9cdTKFClBjWn,2020-06-18,74,26.9,134.5,204.4,96.8,61.5,Makassar,Healthy,Dry Season
+297,P5BhW3xBxZEJ,2020-10-18,51,18.6,115.6,176.4,41.3,78.6,Bandung,Hypertension,Transitional Season
+298,FaWDM0xhgqiy,2020-05-27,44,23.4,96.4,163.8,120.2,64.7,Surabaya,Obesity,Transitional Season
+299,izNYn65UUjuE,2021-12-19,46,26.3,115.5,210.1,73.5,63.6,Medan,Cardiovascular Disease,Rainy Season
+300,2k998FltUwOr,2020-07-07,43,21.3,116.9,200.5,82.3,77.4,Makassar,Obesity,Dry Season
+301,l52ppBJkeCqI,2023-02-10,74,21.2,103,222.6,91,74.3,Surabaya,Hypertension,Rainy Season
+302,FZxSQAnS3gBn,2022-11-16,38,21.9,123.7,223.4,75,76.5,Medan,Hypertension,Rainy Season
+303,SypqX84gicae,2021-08-28,57,14.3,121.5,255.8,77.3,66.8,Makassar,Hypertension,Dry Season
+304,qmSpzk8kj9w0,2021-10-06,52,31.1,142.8,261.8,97.9,66.9,Jakarta,Cardiovascular Disease,Transitional Season
+305,KmjldLLSxFOg,2023-01-14,75,28.7,136.9,157.4,43.9,76.1,Medan,Obesity,Rainy Season
+306,D81KoV6jicfm,2024-07-07,30,20.3,127.8,263.2,92.6,75.2,Jakarta,Cardiovascular Disease,Dry Season
+307,0yYHXOmDBCtz,2020-09-06,51,24.2,130.8,196,99.5,74.7,Medan,Hypertension,Dry Season
+308,qSz2vLChWSIx,2020-06-17,72,20.8,102.2,218.7,92.4,66.5,Medan,Hypertension,Dry Season
+309,4R1xUr7hdZnf,2022-06-25,53,27.6,151.8,212.3,106.3,77.9,Bandung,Hypertension,Dry Season
+310,tsOhrAsGeQIj,2022-01-01,58,23.7,99.6,204,105.8,75.7,Jakarta,Hypertension,Rainy Season
+311,pQ1PuDtRS0bd,2021-07-03,60,30.1,117.7,180.8,104.4,88,Makassar,Obesity,Dry Season
+312,2dFvKjyu49AQ,2023-10-17,45,29,96.4,184.2,122,70,Makassar,Diabetes,Transitional Season
+313,bXbBP6WOmWNz,2021-04-01,27,17.3,112.7,261.1,79.8,84.3,Jakarta,Hypertension,Transitional Season
+314,rBmtxdOt9Sa8,2022-07-07,49,22.6,152.7,305.3,95.1,65.6,Makassar,Cardiovascular Disease,Dry Season
+315,oyunyE1ULdub,2020-04-24,63,19.8,127.6,241.7,86.4,77.7,Makassar,Cardiovascular Disease,Transitional Season
+316,ATMA6zCZEiCr,2024-12-07,44,24.6,114.8,239.2,103.6,64.5,Medan,Hypertension,Rainy Season
+317,i91DUJv05egd,2022-01-01,50,26.2,131.4,195.4,80,84.5,Surabaya,Cardiovascular Disease,Rainy Season
+318,7zNOZlpPaMEm,2023-05-21,18,19.4,110.4,153.3,77.2,79.6,Surabaya,Hypertension,Transitional Season
+319,mN3cl8AG7VXb,2023-08-08,31,28.3,129,203.7,97.4,72,Medan,Hypertension,Dry Season
+320,1JFDCW8zZLXG,2023-12-20,80,28.4,117.6,204.1,86.5,73.6,Surabaya,Diabetes,Rainy Season
+321,hDxgRoy12D2V,2023-05-22,69,29.4,101.4,205.9,75.4,78.4,Surabaya,Diabetes,Transitional Season
+322,9YOYS3wRK0ql,2022-09-11,75,19.8,142.2,199.5,90,80.3,Jakarta,Healthy,Dry Season
+323,Zhogrl2SjSKu,2021-03-13,70,22.8,118.2,256.1,100.4,87.4,Bandung,Obesity,Transitional Season
+324,J38fM05rC4VV,2021-09-16,49,28.6,116.8,263.7,86.1,70.9,Jakarta,Hypertension,Dry Season
+325,Ogla04npfK5V,2021-06-25,45,26.7,101.1,240.1,75.7,68.8,Bandung,Healthy,Dry Season
+326,JaMxT08Z7exz,2021-11-29,60,22,143.2,170.6,99.6,103.8,Bandung,Diabetes,Rainy Season
+327,ATC7Vuq4Atb1,2024-02-01,80,24.9,104.1,205.2,67,65.9,Jakarta,Cardiovascular Disease,Rainy Season
+328,s4YdP4dwX79q,2022-07-05,49,28.6,126.3,259,87.3,78.1,Bandung,Diabetes,Dry Season
+329,cSBayqB5wkf9,2022-08-23,58,19.4,134.7,226,85.9,85.6,Surabaya,Hypertension,Dry Season
+330,iAVY5YUDP4zM,2024-05-01,47,26,144.4,172.4,127.9,48.9,Surabaya,Healthy,Transitional Season
+331,eLSzWfyr3rSn,2023-02-02,68,18.3,136.4,187.9,46.1,87.6,Jakarta,Obesity,Rainy Season
+332,YebduFEo1lI1,2023-05-10,54,19.6,137.7,159.6,95.4,83.4,Surabaya,Hypertension,Transitional Season
+333,DC12ZrYSAiz3,2020-03-28,70,29.1,125.3,235.3,95.1,70.3,Bandung,Hypertension,Transitional Season
+334,vYGyu87hYpz2,2023-10-25,51,19.4,116.6,178.3,91,70.4,Makassar,Hypertension,Transitional Season
+335,phLg0PlvCaxP,2021-01-25,58,18.1,103.8,240.4,117.5,76.3,Bandung,Obesity,Rainy Season
+336,uSd8vj3KzXwg,2021-02-01,52,21.5,122.5,255.1,80.2,97.5,Surabaya,Diabetes,Rainy Season
+337,tVg4CmJILDuL,2020-09-24,41,19,128.3,237.7,89.5,84.5,Medan,Obesity,Dry Season
+338,1CNhii2SIOwd,2024-09-12,61,25.5,104.5,183.9,107.8,67.8,Medan,Cardiovascular Disease,Dry Season
+339,Z7rIT7oOierc,2022-03-29,51,22.4,132.3,156.7,83.7,69.4,Makassar,Hypertension,Transitional Season
+340,VP9k56mvK1Cd,2024-03-25,76,27.4,112.8,168.6,89.9,69.6,Makassar,Healthy,Transitional Season
+341,kBez782o4SvY,2023-02-18,41,25.9,125.7,204.2,87.5,80.5,Medan,Healthy,Rainy Season
+342,fbOph1Sl4io3,2024-06-12,78,21.7,120.1,186.2,102.5,97,Medan,Cardiovascular Disease,Dry Season
+343,p35KviRKDDz3,2020-02-06,45,23,114.7,245,92.2,73.7,Medan,Diabetes,Rainy Season
+344,Q52JXMjir3e9,2021-12-06,65,25.2,93.9,200.6,75,78.6,Bandung,Obesity,Rainy Season
+345,SkHnjJFdoYL7,2020-06-11,35,22,120.7,113.7,72.3,77.6,Jakarta,Cardiovascular Disease,Dry Season
+346,1GnuOBVAw2Qv,2023-12-12,47,21.5,103.2,235.3,88.3,96.1,Makassar,Obesity,Rainy Season
+347,aPYKwTNPDJEL,2024-12-23,39,30.9,108.3,275.7,53.9,61,Bandung,Diabetes,Rainy Season
+348,1f1KucTiWIa9,2020-02-15,43,23.6,132.7,179.8,94.9,71.3,Makassar,Obesity,Rainy Season
+349,s0OCQ0pprHps,2023-08-03,66,29.5,146.5,214.7,66,81.7,Bandung,Diabetes,Dry Season
+350,7zZHKDKcbZwV,2022-05-08,37,25.7,132.7,189.9,96.8,66.2,Surabaya,Hypertension,Transitional Season
+351,2pCnUULLnaQw,2024-01-27,48,27.1,111.8,154.2,133.7,65.7,Jakarta,Hypertension,Rainy Season
+352,J0vZpE9K2Da6,2022-05-17,57,21.1,123.8,180,137,108.3,Surabaya,Hypertension,Transitional Season
+353,zCJx578K54Mq,2021-01-10,47,25,124.5,193.8,94,77,Makassar,Diabetes,Rainy Season
+354,prcgqqs3ardv,2022-03-31,25,24.5,124.8,184.5,66.6,66.6,Jakarta,Healthy,Transitional Season
+355,AdkqXDDmM2aT,2020-10-06,68,19.3,119.4,211.9,111.5,79,Surabaya,Hypertension,Transitional Season
+356,zUtTBWkVB3i2,2022-07-22,64,23.1,102.8,145.1,139.8,70.3,Bandung,Cardiovascular Disease,Dry Season
+357,6443ZQoAAIpG,2022-01-25,42,23.9,128.4,239.9,85.7,62.3,Makassar,Obesity,Rainy Season
+358,t7kTrSXHxfpe,2022-09-07,75,25.9,111.1,163.2,132.9,80.2,Bandung,Diabetes,Dry Season
+359,aCHAZqtykBFp,2023-11-28,55,23.4,102.3,192.1,101.6,93,Bandung,Hypertension,Rainy Season
+360,CnhiAvuXTBZQ,2021-12-15,52,27.8,124.6,218.6,69.1,95.7,Surabaya,Hypertension,Rainy Season
+361,0Yu4Mkn61Ghc,2023-06-02,18,27.6,117.8,232.5,74.3,64.3,Jakarta,Hypertension,Dry Season
+362,di3sZD6hBrjf,2023-11-03,47,16.8,113.7,138.3,112.4,53.2,Bandung,Hypertension,Rainy Season
+363,SVOZE51XeE0c,2020-07-24,64,20.4,102.3,163,107.3,90.7,Medan,Cardiovascular Disease,Dry Season
+364,rPZ4XTJO12gV,2023-10-03,21,18.9,112.9,191.4,90.9,80.7,Makassar,Healthy,Transitional Season
+365,ckL4bRnpgBke,2024-12-29,45,23.5,134,147.2,50.1,64.7,Bandung,Healthy,Rainy Season
+366,gRGUyFiledM7,2021-08-27,58,32.4,133.7,208.3,87.6,65.4,Medan,Obesity,Dry Season
+367,2JPKJu14mETB,2023-08-17,50,26.3,108.7,190.8,88.6,63.2,Surabaya,Cardiovascular Disease,Dry Season
+368,urRzva7b85N7,2023-10-13,60,19.9,104,281.6,69.6,77.9,Bandung,Healthy,Transitional Season
+369,rv4qxviAioCq,2022-07-06,23,26.8,99.1,137.7,97.5,78.6,Makassar,Cardiovascular Disease,Dry Season
+370,ZjE6QONrntLn,2021-11-14,37,23.6,121.5,189.5,100.8,77.2,Jakarta,Cardiovascular Disease,Rainy Season
+371,G8UijSnEjeur,2022-02-03,31,25.6,137.9,149.4,80.1,72.6,Jakarta,Diabetes,Rainy Season
+372,nH2Sv4pTISuD,2021-10-08,26,25.5,102.7,165.3,89.4,72.6,Makassar,Obesity,Transitional Season
+373,3UV4xVjkhj1H,2024-12-01,45,18.9,141.7,259.6,100.1,77.4,Makassar,Cardiovascular Disease,Rainy Season
+374,6bBAHSwzRsFh,2020-06-07,48,30.1,137.2,142.3,101.6,78.4,Jakarta,Healthy,Dry Season
+375,Rut7eKM50XlE,2022-07-16,41,28.7,124.8,252,68.5,63,Jakarta,Cardiovascular Disease,Dry Season
+376,Mpb4RWPGfwao,2022-09-04,23,23.3,120.9,184.7,100,90.6,Bandung,Healthy,Dry Season
+377,VZx0AxgHdkFn,2022-07-23,61,19.1,136.3,226.5,88.8,60.9,Surabaya,Hypertension,Dry Season
+378,3JfTkvliazdH,2021-10-14,39,18.6,111.7,155.6,74.8,62.3,Jakarta,Diabetes,Transitional Season
+379,UHNJlVfUy9OW,2023-11-02,66,28.7,112.5,235.6,128.5,60.9,Jakarta,Obesity,Rainy Season
+380,66JocXl8Xyes,2024-04-14,28,28.6,117.2,244,102.3,94.7,Surabaya,Diabetes,Transitional Season
+381,cvojymsdgXcy,2022-12-13,76,22.3,116.5,142.6,113.4,80.3,Surabaya,Healthy,Rainy Season
+382,9RjZ5KJNyTJp,2021-05-28,26,26.9,122.8,240.7,81,74.8,Makassar,Obesity,Transitional Season
+383,hihvKQG3oXyT,2021-06-23,35,26.8,134.6,189.8,58.1,67.1,Makassar,Hypertension,Dry Season
+384,ZNCsUB0dEDsy,2021-01-21,60,31.7,121.6,257.1,78.8,74.8,Makassar,Obesity,Rainy Season
+385,4fWMyK8aGlRh,2022-07-17,36,27.1,94.9,177.8,110.5,70.5,Jakarta,Hypertension,Dry Season
+386,rVJlAqOxH3dU,2024-07-04,50,32.7,132.8,209.2,103.1,91.4,Bandung,Hypertension,Dry Season
+387,RnP47ExaAd2A,2022-09-15,60,26,148.4,173.4,130.6,79.4,Bandung,Cardiovascular Disease,Dry Season
+388,IX99u2SLDJbR,2023-05-20,66,28,82.6,217.7,66.9,59.8,Surabaya,Cardiovascular Disease,Transitional Season
+389,e9qSHB6opiWj,2022-01-16,66,29,141.6,244.2,83.7,62.2,Medan,Obesity,Rainy Season
+390,Nbc4T2JLIhQT,2023-07-12,57,24.7,127.5,228.7,94.6,82.6,Medan,Hypertension,Dry Season
+391,M6YEqoAZrvfU,2023-03-07,28,33.5,130.4,157.6,99.4,65.3,Surabaya,Healthy,Transitional Season
+392,BbMtrYuSbMQT,2024-09-30,67,27.9,111.5,248.9,85.9,76.8,Bandung,Cardiovascular Disease,Dry Season
+393,1h2Jjrb4oYwp,2021-09-18,50,30,134.2,180.9,118,69.5,Makassar,Hypertension,Dry Season
+394,sIKzpZIpmsv6,2024-06-05,72,26.3,132.3,209.9,106.4,73,Bandung,Hypertension,Dry Season
+395,W4n0A2VNB7Yu,2023-12-03,55,30.2,120.2,252.5,103.4,76.5,Makassar,Diabetes,Rainy Season
+396,GIMsJLNkDPFr,2021-09-11,51,25,135.8,213.2,84.8,85.2,Makassar,Hypertension,Dry Season
+397,OqsMtpUVjXsS,2020-07-20,63,28.1,130.5,182.5,114,75.6,Jakarta,Healthy,Dry Season
+398,EDOOgxjmPnb6,2020-03-13,54,27.3,119,217.5,97.5,75.9,Bandung,Obesity,Transitional Season
+399,X3Jz0Fjukknh,2024-08-09,18,29.9,141.1,182.8,77.5,83.2,Makassar,Hypertension,Dry Season
+400,PUxWn6tlW40f,2020-11-30,47,26.9,128.4,189.4,90.2,75.9,Makassar,Cardiovascular Disease,Rainy Season
+401,qpFb9CKExv0r,2022-12-05,74,25.7,116.9,273.7,89.6,75.8,Makassar,Obesity,Rainy Season
+402,GLtbK5tWtCyy,2023-06-24,72,22.8,97.3,246.4,56,74.3,Bandung,Hypertension,Dry Season
+403,oj2A1d0y7W0v,2020-05-10,35,21.2,128.9,207.9,89.3,72,Medan,Hypertension,Transitional Season
+404,MC681O6tIzPP,2023-03-19,77,20.2,100.8,146.8,88.7,91.7,Medan,Hypertension,Transitional Season
+405,6avaQJoTkxo9,2022-12-20,21,28.4,102.6,270,101.8,67.1,Surabaya,Obesity,Rainy Season
+406,S6VU7NlQ74hC,2022-11-09,32,19.6,107.5,235.7,84.7,68.3,Surabaya,Diabetes,Rainy Season
+407,NR2BItfWF0lq,2021-11-12,24,27.5,89.7,147,68.9,54.8,Bandung,Obesity,Rainy Season
+408,9xTX2WFJCDHn,2023-10-09,31,22.6,119.5,236.7,88.4,61,Jakarta,Healthy,Transitional Season
+409,ObcgGNkbBJfK,2022-09-09,27,29.1,106.5,229.6,72.5,68.2,Bandung,Healthy,Dry Season
+410,I9yJThlinRJu,2021-06-12,52,28.4,102.2,226.7,70.4,82.3,Medan,Hypertension,Dry Season
+411,ixBGs0oVTeN0,2020-03-22,24,22.3,113.3,223,94.1,72.2,Surabaya,Cardiovascular Disease,Transitional Season
+412,4dcQmu9VkClb,2023-05-19,22,23.3,128.4,223.8,68,73.9,Medan,Hypertension,Transitional Season
+413,xnCheo0EXekL,2023-04-12,41,21.3,121.4,219.7,92.2,71.4,Makassar,Diabetes,Transitional Season
+414,ta8NhoUfeRrw,2020-09-29,55,17.3,128.9,239.2,94.7,66.7,Bandung,Cardiovascular Disease,Dry Season
+415,WVx2DLucrr3L,2020-04-03,22,29,109.7,176.1,124.8,73.7,Medan,Obesity,Transitional Season
+416,Mf6cqZxO0jzv,2020-11-25,38,26.2,125.4,208.3,91.1,73.9,Jakarta,Obesity,Rainy Season
+417,Y7YM5fYGGrqa,2022-07-21,80,30.8,143,206.4,108.5,85.9,Jakarta,Obesity,Dry Season
+418,5j9BgOSANE9B,2023-12-23,67,25.6,104.2,204.3,113.3,80.9,Jakarta,Obesity,Rainy Season
+419,fGHyPcbNxuUy,2024-09-09,58,34.1,119.5,164,101.9,77.5,Bandung,Hypertension,Dry Season
+420,8XL097hnDoLE,2020-06-27,52,22.4,134.2,210.6,86,69.2,Bandung,Cardiovascular Disease,Dry Season
+421,V3GuRsEoayxo,2023-01-02,20,23.7,123.6,191.7,84.6,59.9,Medan,Healthy,Rainy Season
+422,MLiR6EQlKmha,2020-10-30,26,20.6,143.4,225.2,96.3,80.3,Bandung,Hypertension,Transitional Season
+423,XFVcxXOaYrWk,2022-07-18,80,30.2,140.2,205,99.4,61.8,Surabaya,Obesity,Dry Season
+424,MsoumdyxXScL,2022-08-11,62,25.3,111.1,171.1,93.9,66.9,Jakarta,Diabetes,Dry Season
+425,dDywJDWTT8Bl,2021-04-17,44,31.1,128.1,224.2,59.1,74,Medan,Obesity,Transitional Season
+426,Yl7bBRXZvwkV,2023-10-01,46,23.9,106.1,219.5,107.6,89.9,Jakarta,Hypertension,Transitional Season
+427,xGCLt2xo981u,2022-04-08,44,29.8,113.8,179.7,78.9,88.4,Jakarta,Healthy,Transitional Season
+428,Ovjpd8l85DGA,2023-06-08,56,31.4,135.1,186,90.2,70.1,Makassar,Cardiovascular Disease,Dry Season
+429,tfXVTtblqp1y,2023-10-21,59,21,119.3,285.1,65.5,90.6,Medan,Healthy,Transitional Season
+430,3dmwxGSgINUc,2023-02-13,34,20.9,126.1,205.1,121.7,99.3,Surabaya,Obesity,Rainy Season
+431,E0CE6HfYX29N,2021-12-26,51,26.6,132.5,180.3,115,72.9,Surabaya,Hypertension,Rainy Season
+432,QRg4C58dYqhT,2022-10-07,37,24.2,103.7,176.8,97.2,77.1,Jakarta,Hypertension,Transitional Season
+433,Ay1Tg9I3xOXL,2020-04-17,66,26.2,111.2,224.1,82.5,75.5,Surabaya,Obesity,Transitional Season
+434,rlexSgsKkiTl,2021-10-20,43,25.8,131.7,215.3,67.7,86.4,Jakarta,Healthy,Transitional Season
+435,s3vNcPpDBbmM,2023-09-11,29,23.6,118.3,223.7,92,58.1,Bandung,Healthy,Dry Season
+436,bFuFXRVa6cmO,2024-11-06,41,20.2,111,187.3,108.7,70.2,Jakarta,Hypertension,Rainy Season
+437,hWXba3QaVrov,2021-08-23,41,21.2,118.9,176.7,86.9,72,Medan,Obesity,Dry Season
+438,pzC87Mhy75TB,2024-04-14,55,18.8,90.6,137,106.1,87.4,Jakarta,Cardiovascular Disease,Transitional Season
+439,degYdrWNh6sq,2021-09-09,47,24.9,103.8,226.1,131.8,81,Medan,Hypertension,Dry Season
+440,Xef6abtuvpFH,2020-04-12,39,27.4,122.3,279.7,67.6,65.5,Surabaya,Cardiovascular Disease,Transitional Season
+441,yUqTPm8hb1yD,2022-01-24,47,29.7,93.7,128.2,103.5,71.7,Surabaya,Healthy,Rainy Season
+442,cJG2f6HKKsNh,2023-09-30,68,22.2,119.9,225.5,124,91.4,Bandung,Cardiovascular Disease,Dry Season
+443,uHCgEwyXaeao,2023-07-05,27,27.8,122.7,144.9,65.8,69.9,Bandung,Obesity,Dry Season
+444,GlJw9bn4sNYB,2023-11-17,65,19.5,99.1,184.9,112.3,77.1,Surabaya,Healthy,Rainy Season
+445,sgd7Oj6RtT9u,2023-04-22,50,22.8,131.8,194.6,29.6,93.2,Surabaya,Hypertension,Transitional Season
+446,kLRMO3BS96Ne,2022-04-22,59,26.5,107.4,210.4,100.7,78.6,Makassar,Cardiovascular Disease,Transitional Season
+447,J1hVnpTCyyGX,2023-11-14,24,19.1,122.5,184.7,97.4,76.5,Medan,Hypertension,Rainy Season
+448,BuZ1q2Cui8et,2024-12-27,42,27.2,99.4,227.1,73.4,64.4,Jakarta,Hypertension,Rainy Season
+449,EApuGKR5cBy1,2020-07-15,41,23.3,118.1,183,61.8,79.8,Makassar,Healthy,Dry Season
+450,4W7N3BAeS4CO,2024-08-04,80,22,136.8,207.9,139.9,87.5,Bandung,Cardiovascular Disease,Dry Season
+451,DyvmNjYdeF34,2023-04-30,19,21.5,130.6,239.2,93.3,76.8,Makassar,Diabetes,Transitional Season
+452,0HlV2ViGa7W6,2022-01-15,53,25,108.5,239,73.1,72.6,Jakarta,Obesity,Rainy Season
+453,R2uCOGeFSpie,2024-05-01,69,26.4,132.8,207.9,132.6,68.5,Bandung,Hypertension,Transitional Season
+454,M9FxwCk95a9l,2023-05-01,25,27,152.5,231.6,112,73.3,Bandung,Diabetes,Transitional Season
+455,WOCqOOsKKyOS,2023-12-19,64,20.8,117.9,245.8,89.9,85.5,Bandung,Cardiovascular Disease,Rainy Season
+456,Za4JGLfEKcJn,2022-12-08,31,22.4,138.1,183.7,106.5,76.3,Bandung,Obesity,Rainy Season
+457,D29DYFZFeDoe,2021-04-04,34,22.4,129.8,158,93.1,88,Medan,Diabetes,Transitional Season
+458,Kh1QioYTOSqZ,2022-11-11,75,27.5,116.5,163.7,81.5,84.2,Medan,Healthy,Rainy Season
+459,5wa0f3uFzluT,2024-11-27,54,27.5,139.8,194.8,82.4,70.8,Medan,Healthy,Rainy Season
+460,VQiKxcIqOP6c,2024-11-05,66,33.5,84.1,254.3,86.9,68.8,Makassar,Diabetes,Rainy Season
+461,6GDi4wZSvA7l,2023-11-01,34,27.9,118.3,191.8,71.1,77.6,Bandung,Cardiovascular Disease,Rainy Season
+462,16e6AF5XQOo2,2020-05-11,33,22.5,139.2,170.8,89.5,79.3,Surabaya,Obesity,Transitional Season
+463,7FKmancgEeMb,2024-05-21,49,22,130.9,219.5,137.2,63.7,Jakarta,Obesity,Transitional Season
+464,hMnmEiBlMFCU,2020-07-05,75,31.7,130.9,185,57.8,66.3,Surabaya,Diabetes,Dry Season
+465,y2z0SS5BoFKN,2020-02-22,69,24.4,143.9,274.6,93.1,75.8,Makassar,Cardiovascular Disease,Rainy Season
+466,Bj9fms522gKq,2022-07-22,42,29.9,121.6,241.9,110,55.5,Medan,Hypertension,Dry Season
+467,WrmrwLZd5Yex,2021-09-28,79,27.5,127.6,192.4,73.1,72.3,Jakarta,Diabetes,Dry Season
+468,qnDCBdUBwifo,2022-12-18,55,29,131.3,126,134.7,84.3,Bandung,Obesity,Rainy Season
+469,kA5JsiBaQ8F6,2022-04-16,20,23.6,107.6,263.1,50.6,66,Medan,Hypertension,Transitional Season
+470,LaCcoVLx9zzz,2021-11-12,31,20.4,130.6,158,69.5,69.5,Medan,Obesity,Rainy Season
+471,g2ee3OkWnUVj,2021-12-02,26,26.8,134.2,190.4,51.6,87.9,Jakarta,Hypertension,Rainy Season
+472,2qrcyqTcKkVS,2023-11-28,73,28.4,111.3,219.5,50.3,70.8,Medan,Obesity,Rainy Season
+473,xbARna2ZAh2Y,2023-03-31,61,26.7,101.5,238.3,74.5,67.7,Jakarta,Diabetes,Transitional Season
+474,aDAg9FByI6Qy,2020-03-27,72,31.7,116.7,202.3,58.9,62.7,Jakarta,Cardiovascular Disease,Transitional Season
+475,wZtQL4lFXOKC,2020-08-15,26,25.3,120.6,212.7,70.1,81.6,Bandung,Diabetes,Dry Season
+476,fSYOk3NrKaJ5,2024-05-11,41,20.5,110.4,188.1,135.6,71.5,Bandung,Cardiovascular Disease,Transitional Season
+477,kwfXmFGEKW6b,2024-08-10,63,26.9,105.6,124.1,85.1,78,Bandung,Hypertension,Dry Season
+478,42j843LhVj7z,2024-04-11,20,24.2,130.1,224.9,118,71.8,Bandung,Hypertension,Transitional Season
+479,yjYWajebQL3d,2023-04-12,53,29.1,106.3,194.8,54.3,75.3,Surabaya,Obesity,Transitional Season
+480,Zl43hCSMcSBp,2023-04-12,52,22.7,124.3,253.6,82.4,80.6,Makassar,Hypertension,Transitional Season
+481,WIL9gOPeV6J9,2020-01-03,56,21.9,125.4,255.2,78.1,62.3,Jakarta,Obesity,Rainy Season
+482,5OU7UlVt7Ups,2021-08-29,50,18.8,136.7,204,136.6,60.4,Medan,Healthy,Dry Season
+483,joPKje470vch,2021-12-03,77,19.8,119.8,138,81,70.8,Medan,Diabetes,Rainy Season
+484,wtHNX0kSpg4l,2021-02-05,73,20.3,89.7,201.7,101.7,68.2,Makassar,Cardiovascular Disease,Rainy Season
+485,V59yOwE9QUNK,2020-05-17,54,15.6,129.3,185.9,105.5,86.1,Medan,Hypertension,Transitional Season
+486,6xLsoAPs7fVR,2021-04-25,39,27.8,118.3,172.4,94.7,74.8,Surabaya,Healthy,Transitional Season
+487,4hCiPtB3NVsM,2022-02-05,21,28.1,143.9,203.1,78.5,58.9,Makassar,Healthy,Rainy Season
+488,181gVXLfQsgt,2024-06-07,46,21.1,128.2,194.2,104.4,60.8,Surabaya,Healthy,Dry Season
+489,qkNip7xD8Drh,2022-03-31,44,24.4,95.1,214.1,106.8,71.9,Jakarta,Healthy,Transitional Season
+490,xqnAoa9sZweh,2022-05-18,25,27,121.5,188.1,74,96.3,Bandung,Hypertension,Transitional Season
+491,PiCZaEBPtZwQ,2021-10-30,61,28.4,104.2,222.2,94.4,72.8,Makassar,Obesity,Transitional Season
+492,ZG3Np0BQq3x7,2024-11-08,61,26.6,89.2,187.2,72.2,66.6,Jakarta,Healthy,Rainy Season
+493,dliDT4JABtSP,2021-12-08,29,26.7,132.4,169,100.5,73.6,Surabaya,Cardiovascular Disease,Rainy Season
+494,unl0PY90NcBU,2024-02-07,64,25.8,90.9,218.8,82.5,66.5,Bandung,Healthy,Rainy Season
+495,k15wZKs5igO7,2022-06-23,26,20.9,144.4,261.9,66.1,83,Medan,Diabetes,Dry Season
+496,qiymUnCmMIs9,2023-04-06,41,25.7,114.6,65.4,102.2,68.2,Medan,Obesity,Transitional Season
+497,wNO4LPM45mbU,2023-01-15,20,29,110.6,128.1,81.6,63.1,Surabaya,Obesity,Rainy Season
+498,mGTWsuf9dMk0,2021-05-10,20,22.2,106.3,148.3,108.7,71,Makassar,Healthy,Transitional Season
+499,ecEownET5SIA,2020-08-05,43,29.1,95,225.2,61.7,69.4,Surabaya,Obesity,Dry Season
+500,ZN9lr0an97yz,2020-11-27,58,27.1,126.3,248.2,67.6,75.7,Surabaya,Hypertension,Rainy Season

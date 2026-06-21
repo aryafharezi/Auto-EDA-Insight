@@ -1,0 +1,46 @@
+{
+  "wulan": {
+    "username": "wulan",
+    "full_name": "Wulan Gustika Antasya Tumanggor",
+    "email": "wulsgustika@gmail.com",
+    "salt": "cedffee50f0fa0e583b3bce089744325",
+    "password": "37019b0ba1537dee410beb5fd249f763843565000bd89f9175d2cc81db8c43fa",
+    "created_at": "11 Jun 2026 23:27",
+    "upload_count": 4,
+    "last_login": "11 Jun 2026 23:28",
+    "avatar_url": ""
+  },
+  "tester1": {
+    "username": "tester1",
+    "full_name": "Tester",
+    "email": "t@t.com",
+    "salt": "93072404b3fc73c751df3ceda44c6d6b",
+    "password": "dac101751a6c3ad86df72d011de5b25ee16b43a5566910302a21c6bfd2cfe362",
+    "created_at": "16 Jun 2026 19:50",
+    "upload_count": 1,
+    "last_login": "16 Jun 2026 19:50",
+    "avatar_url": ""
+  },
+  "arya": {
+    "username": "arya",
+    "full_name": "ARYA FHAREZI",
+    "email": "arya",
+    "salt": "3f90f533386202bfc11fca226a2dde15",
+    "password": "e5c02b295a8875d9875953e343f21cdda6c0df102c27affe476d850393ecb549",
+    "created_at": "17 Jun 2026 06:24",
+    "upload_count": 67,
+    "last_login": "21 Jun 2026 09:20",
+    "avatar_url": ""
+  },
+  "111": {
+    "username": "111",
+    "full_name": "",
+    "email": "",
+    "salt": "4120861ed6f1e50a7206e4e00f8af249",
+    "password": "e7533efc77b986b58d853a69cff478969afc1cb805e442d93462af3dfc485b74",
+    "created_at": "19 Jun 2026 02:51",
+    "upload_count": 2,
+    "last_login": "19 Jun 2026 03:21",
+    "avatar_url": ""
+  }
+}

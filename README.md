@@ -108,4 +108,4 @@ Auto_EDA_Insight/
 | GET | `/api/export/csv` | Download CSV |
 | GET | `/api/export/excel` | Download Excel |
 | GET | `/api/export/pdf` | Download PDF report |
-| GET | `/api/export/html` | Download HTML dashboard |
+

@@ -2,6 +2,16 @@
 ### SD-1306 — Data Science Programming
 **Institut Teknologi Sains Bandung | Lecturer: Bakti Siregar, M.Sc.**
 
+### Anggota Kelompok 2
+
+| No | NIM | Nama Lengkap |
+| :---: | :---: | :--- |
+| 1 | 52250005 | ⁠ ⁠Frenkhy Tonga Retang |
+| 2 | 52250007 | Yosef Teofani Tamba |
+| 3 | 52250008 | Arya Fharezi |
+| 4 | 52250010 | Wulan Gustika Antasya Tumanggor |
+| 5 | 52250011 | Christian Michael Juliano |
+
 ---
 
 ## Cara Menjalankan
@@ -44,7 +54,7 @@ Auto_EDA_Insight/
 │   ├── visualization.py      ← All chart types (Plotly)
 │   ├── time_series.py        ← Time series auto-detection & analysis
 │   ├── insight_generator.py  ← Intelligent insight generation
-│   └── export_report.py      ← PDF, HTML, Excel/CSV export
+│   └── export_report.py      ← PDF, Excel, CSV export
 │
 ├── frontend/
 │   └── templates/
@@ -59,7 +69,7 @@ Auto_EDA_Insight/
 └── outputs/
     ├── charts/
     ├── reports/
-    └── exported_files/       ← PDF, HTML, Excel exports
+    └── exported_files/       ← PDF, Excel, CSV exports
 ```
 
 ---
@@ -68,20 +78,20 @@ Auto_EDA_Insight/
 
 | Fitur | Status |
 |-------|--------|
-| Upload Excel/CSV/TXT | ✅ |
-| Auto data type detection | ✅ |
-| Data preview & info | ✅ |
-| Numerical descriptive statistics (13 metrics) | ✅ |
-| Categorical statistics (6 metrics) | ✅ |
-| Numerical visualizations (Histogram, Boxplot, Density, QQ, Violin) | ✅ |
-| Categorical visualizations (Bar, Pie, Count, Pareto) | ✅ |
-| Bivariate/Multivariate (Scatter, Correlation Heatmap, Regression, Bubble) | ✅ |
-| Categorical vs Numerical (Boxplot by Cat, Violin by Cat, Grouped Bar, Strip) | ✅ |
-| Time Series auto-detection & analytics | ✅ |
-| Intelligent Insight Generator (8 types) | ✅ |
-| Export PDF Report | ✅ |
-| Export HTML Dashboard | ✅ |
-| Export CSV / Excel | ✅ |
+| Upload Excel/CSV/TXT/JSON | ✓ |
+| Auto data type detection | ✓ |
+| Data preview & info | ✓ |
+| Numerical descriptive statistics (13 metrics) | ✓ |
+| Categorical statistics (6 metrics) | ✓ |
+| Numerical visualizations (Histogram, Boxplot, Density, QQ, Violin) | ✓ |
+| Categorical visualizations (Bar, Pie, Count, Pareto) | ✓ |
+| Bivariate/Multivariate (Scatter, Correlation Heatmap, Regression, Bubble) | ✓ |
+| Categorical vs Numerical (Boxplot by Cat, Violin by Cat, Grouped Bar, Strip) | ✓ |
+| Time Series auto-detection & analytics | ✓ |
+| Intelligent Insight Generator (8 types) | ✓ |
+| Export PDF Report | ✓ |
+| Export CSV Report | ✓ |
+| Export Excel Report | ✓ |
 
 ---
 
